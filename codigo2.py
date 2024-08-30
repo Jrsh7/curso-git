@@ -1,2 +1,2 @@
-nombre="shadow"
+nombre="sonic"
 print("hola " + nombre)
